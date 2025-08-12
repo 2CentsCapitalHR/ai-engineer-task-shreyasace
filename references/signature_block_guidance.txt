@@ -1,0 +1,1 @@
+Execution/signature blocks should include: Name, Title, Signature, Date, and identify the authorised signatory (e.g., Director, Company Secretary). Separate signature blocks per party.

@@ -1,0 +1,11 @@
+processes:
+  Company Incorporation:
+    required:
+      - Articles of Association
+      - Shareholder Resolution
+      - Register of Members and Directors
+      - UBO Declaration
+      - Incorporation Application
+  Employment & HR:
+    required:
+      - Employment Contract

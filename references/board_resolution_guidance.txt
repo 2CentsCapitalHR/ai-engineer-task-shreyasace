@@ -1,0 +1,1 @@
+Board resolutions: include director names, resolution details, date, and execution blocks. Ensure consistency with shareholder resolutions and company registers.

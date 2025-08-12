@@ -1,0 +1,1 @@
+Contract drafting best practices: include a Definitions/Interpretation section; number clauses (1., 1.1, 1.2); specify governing law and jurisdiction; include signature blocks with authorised signatories.
