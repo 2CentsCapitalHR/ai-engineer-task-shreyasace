@@ -22,17 +22,6 @@ ADGM Corporate Agent Pro is a sophisticated AI-powered document analysis system 
 - 📈 **Executive Dashboard** - High-level compliance insights and metrics
 - 🚀 **Enterprise Ready** - Production-grade performance and reliability
 
-## 🖥️ Demo & Screenshots
-
-### Main Application Interface
-![Main Interface](assets/main-interface.png)
-
-### Document Analysis Dashboard
-![Analysis Dashboard](assets/analysis-dashboard.png)
-
-### Compliance Results View
-![Compliance Results](assets/compliance-results.png)
-
 ## 🚀 Quick Start
 
 ### Prerequisites
